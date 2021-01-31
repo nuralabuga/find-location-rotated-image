@@ -1,0 +1,1 @@
+# find-location-rotated-image
