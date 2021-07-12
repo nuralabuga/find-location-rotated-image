@@ -1,3 +1,3 @@
 # find-location-rotated-image
 
-# dev olusturuldu
+# dev olusturuldu 2
